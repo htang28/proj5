@@ -113,8 +113,4 @@ public class Toggle3 {
 
         return averagedData;
     }
-
-/*-----------------
-     variables
- -----------------*/
 }
